@@ -1,14 +1,14 @@
 # No Java's Sky
 
-Et konsollspill hvor målet er å utforske galaksen ved å besøke ulike typer planeter, samle ressurser og håndtere begrenset energi og drivstoff. Poenget er å overleve lengst mulig og til slutt nå sentrum av galaksen.  
+A console-based game where the goal is to explore the galaxy by visiting different types of planets, collecting resources, and managing limited energy and fuel. The objective is to survive as long as possible and eventually reach the center of the galaxy.
 
-## Funksjoner
-- Prosedyregenererte planeter med ulike miljøer og ressurser  
-- Ressursutvinning og inventarsystem  
-- Energibruk og drivstoff som setter rammer for utforskningen  
-- Mulighet for handel og oppgraderinger underveis 
+## Features
+- Procedurally generated planets with unique environments and resources  
+- Resource extraction and inventory system  
+- Energy and fuel management to limit exploration  
+- Trading and upgrades along the way 
 
 
-## Kjøring
-Åpne mappen i terminal, skriv: "make run"
+## Run
+Open folder in terminal, write: "make run"
 
